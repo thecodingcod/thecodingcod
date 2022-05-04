@@ -89,8 +89,9 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [A Concise Guide On Managing SQLCipher Databases using DBeaver Universal DBMS](https://halawa.dev/using-dbeaver-to-manage-sqlcipher-databases)
+- [The Essential Unit Testing Techniques, Part 1](https://halawa.dev/the-essential-unit-testing-techniques-part-1)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
