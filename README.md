@@ -90,6 +90,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [JSON-Server: How would you create the cheapest REST API in 5 minutes?](https://halawa.dev/json-server)
 - [A Concise Guide On Managing SQLCipher Databases using DBeaver Universal DBMS](https://halawa.dev/using-dbeaver-to-manage-sqlcipher-databases)
 - [The Essential Unit Testing Techniques, Part 1](https://halawa.dev/the-essential-unit-testing-techniques-part-1)
 - [The Branch &amp; Merge Game](https://halawa.dev/the-branch-and-merge-game)
