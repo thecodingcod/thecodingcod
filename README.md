@@ -92,7 +92,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Enough Talks about Good Commit Message, Enforce or validate it!](https://halawa.dev/enough-talks-about-good-commit-message-enforce-or-validate-it)
 - [JSON-Server: How would you create the cheapest REST API in 5 minutes?](https://halawa.dev/json-server)
-- [A Concise Guide On Managing SQLCipher Databases using DBeaver Universal DBMS](https://halawa.dev/using-dbeaver-to-manage-sqlcipher-databases)
+- [How to Connect DBeaver Universal DBMS to a SQLite encrypted DB &lpar;Aka SQL Cipher&rpar;?](https://halawa.dev/using-dbeaver-to-manage-sqlcipher-databases)
 - [The Essential Unit Testing Techniques, Part 1](https://halawa.dev/the-essential-unit-testing-techniques-part-1)
 - [The Branch &amp; Merge Game](https://halawa.dev/the-branch-and-merge-game)
 <!-- BLOG-POST-LIST:END -->  
