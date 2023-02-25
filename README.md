@@ -91,7 +91,6 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Enough Talks about Good Commit Message, Enforce or validate it!](https://halawa.dev/enough-talks-about-good-commit-message-enforce-or-validate-it)
-- [JSON-Server: How would you create the cheapest REST API in 5 minutes?](https://halawa.dev/json-server)
 - [How to Connect DBeaver Universal DBMS to a SQLite encrypted DB &lpar;Aka SQL Cipher&rpar;?](https://halawa.dev/using-dbeaver-to-manage-sqlcipher-databases)
 - [Short history of version control](https://halawa.dev/short-history-of-version-control)
 <!-- BLOG-POST-LIST:END -->  
