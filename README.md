@@ -90,6 +90,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A Manageable Stress](https://halawa.dev/a-manageable-stress)
 - [Enough Talks about Good Commit Message, Enforce or validate it!](https://halawa.dev/enough-talks-about-good-commit-message-enforce-or-validate-it)
 - [How to Connect DBeaver Universal DBMS to a SQLite encrypted DB &lpar;Aka SQL Cipher&rpar;?](https://halawa.dev/using-dbeaver-to-manage-sqlcipher-databases)
 - [Short history of version control](https://halawa.dev/short-history-of-version-control)
