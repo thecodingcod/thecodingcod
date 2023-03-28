@@ -90,6 +90,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A Tale of Paradigms](https://mohamedhalawa.hashnode.dev/a-tale-of-paradigms)
 - [A Manageable Stress](https://mohamedhalawa.hashnode.dev/a-manageable-stress)
 - [Enough Talks about Good Commit Message, Enforce or validate it!](https://mohamedhalawa.hashnode.dev/enough-talks-about-good-commit-message-enforce-or-validate-it)
 - [How to Connect DBeaver Universal DBMS to a SQLite encrypted DB &lpar;Aka SQL Cipher&rpar;?](https://mohamedhalawa.hashnode.dev/using-dbeaver-to-manage-sqlcipher-databases)
