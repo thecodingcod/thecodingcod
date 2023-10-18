@@ -90,7 +90,6 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [A Tale of Paradigms](https://mohamedhalawa.hashnode.dev/a-tale-of-paradigms)
 - [Enough Talks about Good Commit Message, Enforce or validate it!](https://mohamedhalawa.hashnode.dev/enough-talks-about-good-commit-message-enforce-or-validate-it)
 - [Short history of version control](https://mohamedhalawa.hashnode.dev/short-history-of-version-control)
 <!-- BLOG-POST-LIST:END -->  
